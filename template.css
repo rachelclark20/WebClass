@@ -1,0 +1,18 @@
+* {margin: 0; padding: 0;}
+/*
+* Rachel Clark 
+* Web Page 9
+* March 28, 2018
+* Description of Project
+*/
+/* The universal selector */
+*{
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: tan;
+	color: blue;
+}
+
