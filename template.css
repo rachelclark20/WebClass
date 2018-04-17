@@ -11,8 +11,15 @@
 
 /* Put body attributes here */
 
+h1 {
+		font-size: 150%;
+		text-align: center;
+		text-decoration: underline overline;
+}
+
 body { 
 	background-color: tan;
 	color: blue;
+	font-family: arial, Courier, serif
 }
-
+img {float: right;}
