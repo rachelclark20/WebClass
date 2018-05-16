@@ -1,0 +1,38 @@
+/*
+* Rachel Clark 
+* May 2nd
+* Spotted Quoll
+*/
+/*
+*explain the header
+*/
+header {background-color: white; 
+font-size: 100%;
+text-align: center;
+}
+/*
+*explain the border
+*/
+h4 {
+border-bottom: 5px solid gray;
+}
+/*
+*explain the img float
+*/
+img {
+    display: block;
+	float: left;
+    width: 10%; 
+}
+/*
+*explain the h2
+*/
+h2 {background-color: SeaGreen; 
+font-size: 150%;
+text-align: center;
+}
+/*
+*explain the h6
+*/
+h6 {text-align: right;
+}
