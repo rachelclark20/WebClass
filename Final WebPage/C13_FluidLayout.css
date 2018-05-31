@@ -1,0 +1,82 @@
+/* Name: Rachel Clark
+*  Date: 5/30/18
+*  Lab: C13 Fluid Layout Exercise */
+/* html */
+html {
+background-color: darkblue;
+}
+/* id */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* body format */
+body {
+    width: 95%;
+  text-align: center;
+   background-color: lightblue;
+    margin: 15px auto;
+}
+/* fix sidebar */
+#sidebarA {
+width: 25%;
+float: left;
+border-right: 3px solid red
+}
+/* h1 format */
+h1 {
+	background-color: lightblue;
+	color: orangered;
+    padding: 10px;
+}
+/* header format */
+header {
+    border-bottom: 2px solid black;
+    width: 95%;
+    height: 990%
+    background-color: white;
+    margin: 15px auto;
+    border: 2px solid red;
+}
+/* main format */
+main {
+    width: 50%;
+  	float: left;
+}
+/* fix images */
+img {
+   padding:1px;
+   border:1px solid #021a40;
+ }
+#Val {
+width: 150px;
+height: 150px;
+}
+#Facts {
+width: 100px;
+height: 100px;
+}
+#Space {
+width: 390px;
+height: 70px;
+}
+/* sidebarB format */
+#sidebarB {
+    width: 23%;
+	float: right;
+    border-left: solid red;
+}
+/* footer format */
+footer {
+	background-color: lightblue;
+    clear: left;
+    border-top: 2px solid red;
+}
+/* h2 format */
+h2 {
+float: left;
+}
+/* h6 */
+h6 {
+color: red;
+float: right;}
